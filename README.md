@@ -19,8 +19,8 @@
 <input type="checkbox" checked> Mark task as selected
 
 <h2> Project demonstration ✅ </h2>
-<img src="./public/screenshots/banner.png" alt="
+<img src="/public/screenshots/banner.png" alt="
 Print Screen">
 <br>
 <br>
-<img src="./public/screenshots/execution.png" alt="Print Screen">
+<img src="/public/screenshots/execution.png" alt="Print Screen">
