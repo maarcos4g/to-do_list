@@ -20,7 +20,7 @@
 
 <h2> Project demonstration ✅ </h2>
 <img src="./public/screenshots/banner.png" alt="
-Print Screen" width="80%" align="center">
+Print Screen">
 <br>
 <br>
-<img src="./public/screenshots/execution.png" alt="Print Screen" width="80%" align="center">
+<img src="./public/screenshots/execution.png" alt="Print Screen">
